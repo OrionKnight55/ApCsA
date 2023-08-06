@@ -1,6 +1,6 @@
 public class Cow{
     private String soundCow;
-    private String nameCow;
+    private String dog;
     private int milkCnt;
     public Cow(String name,String sound){
         nameCow=name;
