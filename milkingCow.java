@@ -14,7 +14,7 @@ public class Cow{
         return soundCow;
     }
     public void milkCow(){
-        milkCnt++;
+        milkCnt--;
     }
     public int getNumMilking(){
         return milkCnt;
