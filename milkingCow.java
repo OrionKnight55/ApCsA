@@ -11,7 +11,7 @@ public class Cow{
         return nameCow;
     }
     public String getSound(){
-        return soundCow;
+        return soundDog;
     }
     public void milkCow(){
         milkCnt++;
