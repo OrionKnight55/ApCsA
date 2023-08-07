@@ -8,7 +8,7 @@ public class Cow{
         milkCnt=1;
     }
     public String getType(){
-        return nameCow;
+        return nameDog;
     }
     public String getSound(){
         return soundCow;
