@@ -17,6 +17,6 @@ public class Cow{
         milkCnt++;
     }
     public int getNumMilking(){
-        return milkCnt;
+        return milkCmt;
     }
 }
