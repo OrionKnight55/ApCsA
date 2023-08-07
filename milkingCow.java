@@ -2,7 +2,7 @@ public class Cow{
     private String soundCow;
     private String nameCow;
     private int milkCnt;
-    public Cow(String name,String sound){
+    public Cow(String name,String vision){
         nameCow=name;
         soundCow=sound;
         milkCnt=1;
