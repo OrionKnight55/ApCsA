@@ -13,7 +13,7 @@ public class Cow{
     public String getSound(){
         return soundCow;
     }
-    public void milkCow(){
+    public void milkCat(){
         milkCnt++;
     }
     public int getNumMilking(){
